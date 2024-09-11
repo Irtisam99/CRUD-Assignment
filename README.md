@@ -2,18 +2,24 @@
 # CRUD APPLICATION USING VISUAL STUDIO AND MYSQL DATABASE
 
 Faciliates in understanding and demonstrating about the basic concepts of CREATE,READ,UPDATE AND DELETE.
+
 ## PREVIEW
+
+![Screenshot (297)](https://github.com/user-attachments/assets/9f760baa-3fdb-4ef7-867d-68beae1c053d)
+
 ## BUILT WITH
 
 Programming Language: C#(.Net Framework)
 Database: Microsoft SQL Server
 IDE: Visual Studio / VS Code
+
 ## FEATURES (BUTTONS)
 
 Insert: Add new user data to the database.
 Delete: Remove existing user data based on userid.
 Update: Modify details of a selected user.
 Search: Search for the existing data from the datagridview 
+
 ## SQL QUERY
 
 Table Design
@@ -57,6 +63,7 @@ Delete GYM1 where MemberID= '" + int.Parse(textBox1.Text) + "'", con
 Search
 
 select * from GYM1 where MemberID= '"+int.Parse(textBox1.Text)+"'", con
+
 ## TECHNOLOGY
 
 Programming Language: C#
@@ -70,6 +77,7 @@ UI Components:
 - Text Box for entering data.
 - Button for response.
 - Data Grid View for displaying and managing data
+
 ## 🛠 Skills
 
 C#
