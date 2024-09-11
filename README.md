@@ -10,14 +10,20 @@ Faciliates in understanding and demonstrating about the basic concepts of CREATE
 ## BUILT WITH
 
 Programming Language: C#(.Net Framework)
+
 Database: Microsoft SQL Server
+
 IDE: Visual Studio / VS Code
+
 
 ## FEATURES (BUTTONS)
 
 Insert: Add new user data to the database.
+
 Delete: Remove existing user data based on userid.
+
 Update: Modify details of a selected user.
+
 Search: Search for the existing data from the datagridview 
 
 ## SQL QUERY
