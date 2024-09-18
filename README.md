@@ -70,6 +70,15 @@ Search
 
 select * from GYM1 where MemberID= '"+int.Parse(textBox1.Text)+"'", con
 
+
+## HOW TO RUN IT
+
+1. Download all the necessary files from this repository
+2. The database sql script file should be also donwloaded
+3. The query should be executed after running the script in the respective database file
+4. After running the visual studio, the database connection string should also be updated according to the desired database string found in your server explorer
+5. Save and run the project
+
 ## TECHNOLOGY
 
 Programming Language: C#
